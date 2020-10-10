@@ -14,7 +14,7 @@ class Course {
 		return {
 			title: this.title,
 			price: this.price,
-			img: this.imgUrl,
+			imgUrl: this.imgUrl,
 			id: this.id
 		}
 	}
