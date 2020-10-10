@@ -3,3 +3,6 @@ git remote add origin https://3314099@bitbucket.org/3314099/express-js.git
 npm init
 npm i express
 npm i -D nodemon
+
+npm i uuid // генерация уникальных ключей
+https://www.npmjs.com/package/uuid
