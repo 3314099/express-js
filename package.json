@@ -1,0 +1,28 @@
+{
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "express-js course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://3314099@bitbucket.org/3314099/express-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "express"
+  ],
+  "author": "Andrey Petrov <3314099@mail.ru>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/3314099/express-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

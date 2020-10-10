@@ -1,3 +1,6 @@
 Курс Udemi, Минин:
 D:\Программирование\00_FullStek (video)\01_FullStack_JS\005_Express_[WebForMySelf] NodeJS. Полное руководство (2019)
 
+git rm -rf --cached . // исключаем все файлы из индексирования
+git add . // добавляем все файлы но уже сучетом .gitignore
+
