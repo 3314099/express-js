@@ -4,3 +4,6 @@ D:\Программирование\00_FullStek (video)\01_FullStack_JS\005_Expr
 git rm -rf --cached . // исключаем все файлы из индексирования
 git add . // добавляем все файлы но уже сучетом .gitignore
 
+https://handlebarsjs.com/guide/
+https://www.npmjs.com/package/express-handlebars
+npm i express-handlebars
